@@ -4,6 +4,7 @@ body {
 h1 {
   color: black;
   text-align: center;
+  font-size: 48px
 }
 p {
   text-align: left;
@@ -19,8 +20,7 @@ div {
   margin: 10px; 
 }
 .highlight {
-  background-color: yellow; /* Setting the background color */
-  color: black; /* Setting the font color */
-  padding: 10px; /* Adding some padding around the text */
-  border-radius: 5px; /* Optional: Adding rounded corners */
+  background-color: yellow; 
+  color: black; 
+  padding: 10px; 
 }
